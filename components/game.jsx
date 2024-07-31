@@ -11,7 +11,7 @@ import { TextureSelector } from "@/components/TextureSelector";
 import { Menu } from "@/components/Menu";
 
 export default function Home() {
-  return (
+  return ( 
     <>
       <Canvas>
         <Sky sunPosition={[100, 100, 20]} />

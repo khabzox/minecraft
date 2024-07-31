@@ -1,10 +1,8 @@
 import { useFrame, useThree } from "@react-three/fiber";
 import { useSphere } from "@react-three/cannon/dist";
-import dynamic from "next/dynamic";
 import { useEffect, useRef } from "react";
 import { Vector3 } from "three";
 import { useKeyboard } from "@/hooks/useKeyboard";
-import { normalize } from "three/src/math/MathUtils";
 
 const JUMP_FORCE = 5
 const SPEED = 5

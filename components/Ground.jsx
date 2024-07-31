@@ -1,4 +1,3 @@
-// components/Ground.js
 import { usePlane } from '@react-three/cannon';
 import { groundTexture } from '@/utils/textures';
 import { useStore } from '@/hooks/useStore';

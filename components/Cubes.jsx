@@ -1,4 +1,3 @@
-// components/Cubes.js
 import { useStore } from '@/hooks/useStore';
 import { Cube } from './Cube';
 

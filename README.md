@@ -11,7 +11,7 @@ Welcome to the Minecraft Project! This project is designed to enhance your Minec
 
 ## Installation
 
-1. Download the latest release from the [releases page](https://github.com/yourusername/minecraft/releases).
+1. Download the latest release from the [releases page](https://github.com/khabzox/minecraft/releases).
 2. Extract the downloaded files to your Minecraft `mods` folder.
 3. Launch Minecraft and enjoy the new features!
 
@@ -37,6 +37,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please open an issue on the [GitHub repository](https://github.com/yourusername/minecraft).
+For any questions or feedback, please open an issue on the [GitHub repository](https://github.com/khabzox/minecraft).
 
 Happy crafting!

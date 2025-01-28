@@ -14,3 +14,5 @@
 - [x] Cube type selector
 - [x] Save world in localstorage
 - [x] Build a house
+
+All Tasks are completed
